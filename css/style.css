@@ -2,6 +2,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }  
 
 /* struttura header */
@@ -36,7 +37,7 @@ h1{
     margin: 0%;
 }
 
-.autore-data{
+.autore-data, h2 {
     margin: 0%;
     color: grey;
 }
@@ -45,6 +46,7 @@ h1{
 
 .row{
     margin-top: 20px;
+    margin-bottom: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .testo-yellow {
@@ -62,3 +64,20 @@ h1{
 .corpotabella{
     background-color: aqua;
 }
+/* struttura footer  */
+
+.imgfinale{
+    position: relative;
+    
+    
+}
+.scrittafinale{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20%;
+    height: 20px;
+    font: bold ;
+    color: white;
+} 
+
