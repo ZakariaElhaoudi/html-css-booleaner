@@ -25,8 +25,18 @@ h1{
 }
 
 #logo{ 
-    width: 30%;
+    width: 20%;
     position: absolute;
     bottom: 0;
     left: 0;
+}
+.descrizione-img{
+    font-size: 10px;
+    padding: 0%;
+    margin: 0%;
+}
+
+.autore-data{
+    margin: 0%;
+    color: grey;
 }
